@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="ATM_Machine">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATM_Machine</output-path>
+    <root id="root">
+      <element id="module-output" name="ATM_Machine" />
+    </root>
+  </artifact>
+</component>
